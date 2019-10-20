@@ -101,4 +101,4 @@ async def on_member_remove(member):
    print(f'Goodbye {member}')
 
 
-client.run('NTk4NTc2ODU3ODUxNDk0NDM5.XSYsLg.4QdnMTsIarZ7f1nyZgd4Fk-zee4')
+client.run('kAHFn8AUP7ddY1JhSK9vEmDBPnkZ5SJw')
